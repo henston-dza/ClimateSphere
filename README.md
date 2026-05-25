@@ -137,7 +137,3 @@ CLIENT_URL=http://localhost:5173
 - Rate limiting per IP
 - Input validation & sanitization
 - API keys never exposed to frontend
-
-## 📄 License
-
-ISC
